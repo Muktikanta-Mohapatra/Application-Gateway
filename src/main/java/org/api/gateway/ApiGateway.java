@@ -15,5 +15,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class ApiGateway {
     public static void main(String[] args) {
         SpringApplication.run(ApiGateway.class, args);
+        SpringApplication.run(ApiGateway.class, args);
     }
 }
